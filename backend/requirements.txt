@@ -5,3 +5,8 @@ PyMuPDF
 pandas
 pytesseract
 Pillow
+Flask
+flask-cors
+pdfplumber
+gunicorn
+
